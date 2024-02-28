@@ -22,5 +22,7 @@ Aquí se muestran las imágenes de los resultados de la ejecución:
 
 ![Imagen 1](/~/img/jac1.png)
 ![Imagen 2](~/img/jac1.png)
+![Texto Alternativo](img/jac1.png)
+
 
 # t1Paralela
