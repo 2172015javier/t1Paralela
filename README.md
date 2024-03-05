@@ -52,9 +52,9 @@
 
 Después de analizar los resultados de todas las ejecuciones con diferentes niveles de optimización, podemos concluir lo siguiente:
 
-- En general, se observa una mejora en el rendimiento del código al utilizar optimización en comparación con la compilación sin optimización (-O0).
-- Los niveles de optimización -O1, -O2 y -O3 muestran una mejora progresiva en el tiempo de ejecución, siendo -O2 el nivel que proporciona el tiempo de ejecución más rápido en este caso específico.
-- Aunque el nivel de optimización -O1 mostró un aumento en el tiempo de ejecución en comparación con -O0 en este caso particular, este resultado puede variar según el código y las características del sistema.
+- En general, se observa una mejora en el rendimiento del código al utilizar optimización en comparación con la compilación sin optimización (-o0).
+- Los niveles de optimización -o1, -o2 y -o3 muestran una mejora progresiva en el tiempo de ejecución, siendo -o2 el nivel que proporciona el tiempo de ejecución más rápido en este caso específico.
+- Aunque el nivel de optimización -o1 mostró un aumento en el tiempo de ejecución en comparación con -o0 en este caso particular, este resultado puede variar según el código y las características del sistema.
 - La diferencia en el tiempo de ejecución entre los niveles de optimización puede ser pequeña en algunos casos, lo que sugiere que la optimización no siempre conduce a mejoras significativas en el rendimiento del código.
 - Es importante tener en cuenta que los resultados pueden variar según el entorno de ejecución y las características específicas del código.
 - Se debe considerar cuidadosamente el equilibrio entre el tiempo de compilación, el rendimiento del código y otros factores al elegir el nivel de optimización adecuado para un proyecto específico.
